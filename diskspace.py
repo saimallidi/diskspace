@@ -14,4 +14,4 @@ response = {
   "files": resp_files
 }
 
-print(json.dumps(response,indent=0))
+print(json.dumps(response))
