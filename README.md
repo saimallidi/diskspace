@@ -9,3 +9,5 @@ After running the script, result will be displayed in a Json format.
 Output Example:
 
 ![image](https://user-images.githubusercontent.com/36652341/149401317-b4292bdf-7aa0-45e5-bb9a-9b1ff90d4598.png)
+
+![image](https://user-images.githubusercontent.com/36652341/149285020-2f6260a7-7dae-47f8-ad98-a636c0e3db42.png)
